@@ -1,0 +1,8 @@
+C:\Users\Ledozvezd\source\repos\Task5\bin\Debug\Task5.exe.config
+C:\Users\Ledozvezd\source\repos\Task5\bin\Debug\Task5.exe
+C:\Users\Ledozvezd\source\repos\Task5\bin\Debug\Task5.pdb
+C:\Users\Ledozvezd\source\repos\Task5\obj\Debug\Task5.csproj.AssemblyReference.cache
+C:\Users\Ledozvezd\source\repos\Task5\obj\Debug\Task5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ledozvezd\source\repos\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+C:\Users\Ledozvezd\source\repos\Task5\obj\Debug\Task5.exe
+C:\Users\Ledozvezd\source\repos\Task5\obj\Debug\Task5.pdb
