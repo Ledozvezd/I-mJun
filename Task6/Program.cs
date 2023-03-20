@@ -11,11 +11,12 @@ namespace Task6
         static void Main(string[] args)
         {
             int picturesAmount = 52;
-            int amountOfFull = picturesAmount / 3;
-            int tooMuchPics = picturesAmount % 3;
+            int line = 3;
+            int quantityOfStrings = picturesAmount / line;
+            int restPics = picturesAmount % line;
 
-            Console.WriteLine("Будет заполнено рядов: " + amountOfFull);
-            Console.WriteLine("Останется: " + tooMuchPics);
+            Console.WriteLine("Будет заполнено рядов: " + quantityOfStrings);
+            Console.WriteLine("Останется: " + restPics);
         }
     }
 }

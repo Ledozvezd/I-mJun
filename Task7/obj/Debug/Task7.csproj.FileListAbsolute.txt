@@ -1,0 +1,8 @@
+C:\Users\Ledozvezd\source\repos\I'mJun\Task7\bin\Debug\Task7.exe.config
+C:\Users\Ledozvezd\source\repos\I'mJun\Task7\bin\Debug\Task7.exe
+C:\Users\Ledozvezd\source\repos\I'mJun\Task7\bin\Debug\Task7.pdb
+C:\Users\Ledozvezd\source\repos\I'mJun\Task7\obj\Debug\Task7.csproj.AssemblyReference.cache
+C:\Users\Ledozvezd\source\repos\I'mJun\Task7\obj\Debug\Task7.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ledozvezd\source\repos\I'mJun\Task7\obj\Debug\Task7.csproj.CoreCompileInputs.cache
+C:\Users\Ledozvezd\source\repos\I'mJun\Task7\obj\Debug\Task7.exe
+C:\Users\Ledozvezd\source\repos\I'mJun\Task7\obj\Debug\Task7.pdb
