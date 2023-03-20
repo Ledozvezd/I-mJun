@@ -10,6 +10,17 @@ namespace Task8
     {
         static void Main(string[] args)
         {
+            int minutesForOnePatient = 10;
+            int PatientsPerHour = 6;
+            int minutesPerHour = 60;
+
+            Console.WriteLine("Сколько перед вами старушек?");
+            int numberOfGrandmoms = int.Parse(Console.ReadLine());
+
+            Console.WriteLine($"Вы должны отстоять в очереди {numberOfGrandmoms/PatientsPerHour} часов {(numberOfGrandmoms*minutesForOnePatient)-((numberOfGrandmoms / PatientsPerHour)*minutesPerHour)} минут");
+
+            Console.ReadLine();
+
         }
     }
 }
