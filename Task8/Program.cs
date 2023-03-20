@@ -18,7 +18,7 @@ namespace Task8
             int numberOfGrandmoms = int.Parse(Console.ReadLine());
 
             int hours = numberOfGrandmoms / PatientsPerHour;
-            int minutes = (numberOfGrandmoms * minutesForOnePatient) - ((numberOfGrandmoms / PatientsPerHour) * minutesPerHour);
+            int minutes = (numberOfGrandmoms * minutesForOnePatient) - (hours * minutesPerHour);
 
             Console.WriteLine($"Вы должны отстоять в очереди {hours} часов {minutes} минут");
         }
