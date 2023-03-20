@@ -13,15 +13,15 @@ namespace Task7
             int moneyCourse = 5;
 
             Console.WriteLine("Сколько у вас монет?");
-            int amountOfCoins = Convert.ToInt32((Console.ReadLine()));
+            int quantityOfCoins = Convert.ToInt32((Console.ReadLine()));
 
             Console.WriteLine("Сколько хотите купить кристалов?");
             int quantityOfDiamods = Convert.ToInt32((Console.ReadLine()));
 
-            int restOfMoney = amountOfCoins - (quantityOfDiamods*moneyCourse);
+            quantityOfCoins -= (quantityOfDiamods*moneyCourse);
 
             Console.WriteLine($"У вас {quantityOfDiamods} кристалов");
-            Console.WriteLine($"У вас осталось {restOfMoney} монет");
+            Console.WriteLine($"У вас осталось {quantityOfCoins} монет");
 
             Console.ReadLine();
         }
