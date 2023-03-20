@@ -10,10 +10,10 @@ namespace Task6
     {
         static void Main(string[] args)
         {
-            int picturesAmount = 52;
-            int line = 3;
-            int quantityOfStrings = picturesAmount / line;
-            int restPics = picturesAmount % line;
+            int picturesQuantity = 52;
+            int picsPerLine = 3;
+            int quantityOfStrings = picturesQuantity / picsPerLine;
+            int restPics = picturesQuantity % picsPerLine;
 
             Console.WriteLine("Будет заполнено рядов: " + quantityOfStrings);
             Console.WriteLine("Останется: " + restPics);
